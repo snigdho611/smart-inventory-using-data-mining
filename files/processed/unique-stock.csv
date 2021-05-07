@@ -1,0 +1,170 @@
+ID,Item,Price,Times Bought
+0,citrus fruit,0.81,814
+1,semi-finished bread,13.86,174
+2,margarine,13.23,576
+3,ready soups,10.39,18
+4,tropical fruit,13.11,1032
+5,yogurt,7.61,1372
+6,coffee,12.81,571
+7,whole milk,2.81,2513
+8,pip fruit,8.55,744
+9,cream cheese,1.69,390
+10,meat spreads,8.2,42
+11,other vegetables,14.51,1903
+12,condensed milk,19.25,101
+13,long life bakery product,7.83,368
+14,butter,16.16,545
+15,rice,16.26,75
+16,abrasive cleaner,13.31,35
+17,rolls/buns,0.15,1809
+18,UHT-milk,18.55,329
+19,bottled beer,18.52,792
+20,liquor (appetizer),5.46,78
+21,potted plants,16.18,170
+22,cereals,14,56
+23,white bread,2.45,414
+24,bottled water,16.48,1087
+25,chocolate,6.67,488
+26,curd,6.77,524
+27,flour,6.76,171
+28,dishes,7.51,173
+29,beef,6.99,516
+30,frankfurter,17.69,580
+31,soda,1.12,1715
+32,chicken,1.79,422
+33,sugar,6.14,333
+34,fruit/vegetable juice,13.77,711
+35,newspapers,6.83,785
+36,packaged fruit/vegetables,1.77,128
+37,specialty bar,19.14,269
+38,butter milk,2.21,275
+39,pastry,0.63,875
+40,processed cheese,0.62,163
+41,detergent,4.72,189
+42,root vegetables,15.99,1072
+43,frozen dessert,12.43,106
+44,sweet spreads,0.98,89
+45,salty snack,2.69,372
+46,waffles,15.31,378
+47,candy,9.33,294
+48,bathroom cleaner,10.53,27
+49,canned beer,11.6,764
+50,sausage,18.06,924
+51,brown bread,12.97,638
+52,shopping bags,3.46,969
+53,beverages,14.98,256
+54,hamburger meat,15.52,327
+55,spices,7.68,51
+56,hygiene articles,6.83,324
+57,napkins,2.79,515
+58,pork,7.03,567
+59,berries,1.77,327
+60,whipped/sour cream,9.44,705
+61,artif. sweetener,14.35,32
+62,grapes,14.32,220
+63,dessert,16.22,365
+64,zwieback,3.64,68
+65,domestic eggs,14.89,624
+66,spread cheese,17.62,110
+67,misc. beverages,15.52,279
+68,hard cheese,17.71,241
+69,cat food,13.21,229
+70,ham,19.65,256
+71,turkey,16.12,80
+72,baking powder,16.19,174
+73,pickled vegetables,8.08,176
+74,oil,0.9,276
+75,chewing gum,16.04,207
+76,chocolate marshmallow,14.69,89
+77,ice cream,19.95,246
+78,frozen vegetables,2.11,473
+79,canned fish,11.52,148
+80,seasonal products,2.28,140
+81,curd cheese,2.69,50
+82,red/blush wine,19.1,189
+83,frozen potato products,10.48,83
+84,specialty fat,12.17,36
+85,specialty chocolate,12.81,299
+86,candles,6,88
+87,flower (seeds),16.19,102
+88,sparkling wine,13.59,55
+89,salt,16.13,106
+90,frozen meals,11.33,279
+91,canned vegetables,3.42,106
+92,onions,16.18,305
+93,herbs,6.65,160
+94,white wine,5.12,187
+95,brandy,9.4,41
+96,photo/film,6.7,91
+97,sliced cheese,13.06,241
+98,pasta,17.59,148
+99,softener,19.54,54
+100,cling film/bags,4.6,112
+101,fish,16.11,29
+102,male cosmetics,14.79,45
+103,canned fruit,8.77,32
+104,Instant food products,16.82,79
+105,soft cheese,8.19,168
+106,honey,14.13,15
+107,dental care,16.8,57
+108,popcorn,14.65,71
+109,cake bar,11.5,130
+110,snack products,13.75,30
+111,flower soil/fertilizer,14.57,19
+112,specialty cheese,19.42,84
+113,finished products,1.28,64
+114,cocoa drinks,15.88,22
+115,dog food,0.69,84
+116,prosecco,11.39,20
+117,frozen fish,11.81,115
+118,make up remover,1.53,8
+119,cleaner,18.64,50
+120,female sanitary products,19.99,60
+121,dish cleaner,6.69,103
+122,cookware,0.22,27
+123,meat,1.32,254
+124,tea,11.97,38
+125,mustard,16.21,118
+126,house keeping products,14.05,82
+127,skin care,16.16,35
+128,potato products,6.82,28
+129,liquor,11.96,109
+130,pet care,3.1,93
+131,soups,13.79,67
+132,rum,16.95,44
+133,salad dressing,17.36,8
+134,sauces,9.09,54
+135,vinegar,12.58,64
+136,soap,1.75,26
+137,hair spray,19.07,11
+138,instant coffee,3.48,73
+139,roll products,16.22,101
+140,mayonnaise,18.75,90
+141,rubbing alcohol,5.83,10
+142,syrup,5.18,32
+143,liver loaf,11.4,50
+144,baby cosmetics,12.61,6
+145,organic products,10.45,16
+146,nut snack,16.5,31
+147,kitchen towels,7.58,59
+148,frozen chicken,10.37,6
+149,light bulbs,14.74,41
+150,ketchup,13.01,42
+151,jam,19.44,53
+152,decalcifier,19.89,15
+153,nuts/prunes,11.88,33
+154,liqueur,13.06,9
+155,organic sausage,12.45,22
+156,cream,14.33,13
+157,toilet cleaner,10.48,7
+158,specialty vegetables,15.4,17
+159,baby food,14.39,1
+160,pudding powder,5.16,23
+161,tidbits,18.6,23
+162,whisky,0.79,8
+163,frozen fruits,14.84,12
+164,bags,11.69,4
+165,cooking chocolate,6.32,25
+166,sound storage medium,10.33,1
+167,kitchen utensil,18.56,4
+168,preservation products,19.78,2
