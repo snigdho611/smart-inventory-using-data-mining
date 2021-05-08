@@ -1,0 +1,24 @@
+{% extends 'base.html' %} 
+
+{% block head %}
+    <title>Data</title>
+{% endblock %}
+
+{% block body %}
+    <table>
+        <tr>
+            <th>id</th>
+            <th>username</th>
+            <th>password</th>
+            <th>type</th>
+        </tr>
+        {% for row in data: %} 
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+        {% endfor %}
+        </tr>
+    </table>
+{% endblock %}
