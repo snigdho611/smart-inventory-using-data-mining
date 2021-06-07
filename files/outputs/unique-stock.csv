@@ -1,0 +1,100 @@
+ID,product,price,quantity,times_sold,revenue_per_item
+0,citrus fruit,16.98,29,9,152.82
+1,semi-finished bread,7.57,99,2,15.14
+2,margarine,13.78,59,4,55.12
+3,ready soups,6.38,44,1,6.38
+4,tropical fruit,10.85,86,12,130.2
+5,yogurt,18.38,32,15,275.7
+6,coffee,9.36,35,7,65.52
+7,whole milk,17.26,30,25,431.50000000000006
+8,pip fruit,6.77,45,2,13.54
+9,cream cheese,19.52,86,4,78.08
+10,meat spreads,17.98,85,2,35.96
+11,other vegetables,18.76,62,17,318.92
+12,condensed milk,17.11,75,2,34.22
+13,long life bakery product,7.57,48,2,15.14
+14,butter,7.3,96,6,43.8
+15,rice,5.87,72,2,11.74
+16,abrasive cleaner,11.34,38,2,22.68
+17,rolls/buns,7.38,74,21,154.98
+18,UHT-milk,6.04,66,2,12.08
+19,bottled beer,4.56,33,3,13.68
+20,liquor (appetizer),14.75,86,1,14.75
+21,potted plants,13.4,31,1,13.4
+22,cereals,3.64,82,2,7.28
+23,white bread,9.61,57,1,9.61
+24,bottled water,0.73,77,12,8.76
+25,chocolate,7.01,73,6,42.06
+26,curd,15.92,61,6,95.52
+27,flour,10.09,37,3,30.27
+28,dishes,3.21,30,1,3.21
+29,beef,13.86,70,4,55.44
+30,frankfurter,14.29,70,3,42.87
+31,soda,0.12,63,13,1.56
+32,chicken,1.55,61,2,3.1
+33,sugar,11.98,58,7,83.86
+34,fruit/vegetable juice,13.47,90,9,121.23
+35,newspapers,8.07,97,9,72.63
+36,packaged fruit/vegetables,19.57,44,2,39.14
+37,specialty bar,6.11,75,3,18.330000000000002
+38,butter milk,15.28,85,4,61.12
+39,pastry,2.83,95,9,25.47
+40,processed cheese,15.05,45,2,30.1
+41,detergent,11.95,51,6,71.69999999999999
+42,root vegetables,2.01,41,9,18.089999999999996
+43,frozen dessert,13.26,82,1,13.26
+44,sweet spreads,15.43,69,1,15.43
+45,salty snack,5.55,96,3,16.65
+46,waffles,12.68,34,3,38.04
+47,candy,2.95,81,2,5.9
+48,bathroom cleaner,0.0,30,2,0.0
+49,canned beer,15.93,82,8,127.44
+50,sausage,5.39,56,8,43.12
+51,brown bread,3.43,44,7,24.01
+52,shopping bags,15.28,57,3,45.839999999999996
+53,beverages,14.8,43,2,29.6
+54,hamburger meat,5.1,80,3,15.299999999999999
+55,spices,13.91,91,1,13.91
+56,hygiene articles,19.87,90,2,39.74
+57,napkins,16.28,72,2,32.56
+58,pork,4.55,91,3,13.649999999999999
+59,berries,19.8,98,6,118.80000000000001
+60,whipped/sour cream,14.52,38,5,72.6
+61,artif. sweetener,17.87,92,1,17.87
+62,grapes,11.83,51,3,35.49
+63,dessert,17.96,76,1,17.96
+64,zwieback,12.37,63,1,12.37
+65,domestic eggs,9.5,34,4,38.0
+66,spread cheese,17.65,25,1,17.65
+67,misc. beverages,17.6,90,1,17.6
+68,hard cheese,0.99,55,2,1.98
+69,cat food,14.3,52,2,28.6
+70,ham,18.82,60,2,37.64
+71,turkey,9.95,70,1,9.95
+72,baking powder,18.78,34,1,18.78
+73,pickled vegetables,19.29,67,2,38.58
+74,oil,13.83,34,5,69.15
+75,chewing gum,8.82,66,1,8.82
+76,chocolate marshmallow,8.72,57,1,8.72
+77,ice cream,18.56,37,1,18.56
+78,frozen vegetables,19.41,74,4,77.64
+79,canned fish,11.51,56,1,11.51
+80,seasonal products,14.46,50,1,14.46
+81,curd cheese,4.26,76,1,4.26
+82,red/blush wine,19.75,41,3,59.25
+83,frozen potato products,9.72,33,2,19.44
+84,specialty fat,16.65,76,1,16.65
+85,specialty chocolate,0.41,64,2,0.82
+86,candles,16.98,46,3,50.94
+87,flower (seeds),13.44,27,1,13.44
+88,sparkling wine,12.02,74,1,12.02
+89,salt,1.27,62,2,2.54
+90,frozen meals,3.19,85,1,3.19
+91,canned vegetables,8.29,36,1,8.29
+92,onions,18.32,91,3,54.96
+93,herbs,8.73,41,1,8.73
+94,white wine,16.72,64,1,16.72
+95,brandy,4.27,91,1,4.27
+96,photo/film,12.4,45,1,12.4
+97,sliced cheese,13.45,58,1,13.45
+98,pasta,7.65,27,1,7.65
