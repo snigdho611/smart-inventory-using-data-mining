@@ -1,0 +1,100 @@
+Items,Relations
+citrus fruit,"[['tropical fruit', 'citrus fruit', '3.0%'], ['whole milk', 'citrus fruit', '3.0%']]"
+semi-finished bread,[]
+margarine,[]
+ready soups,[]
+tropical fruit,"[['tropical fruit', 'citrus fruit', '3.0%'], ['yogurt', 'tropical fruit', '3.0%'], ['whole milk', 'tropical fruit', '3.0%'], ['other vegetables', 'tropical fruit', '4.0%'], ['rolls/buns', 'tropical fruit', '3.0%'], ['root vegetables', 'tropical fruit', '3.0%'], ['tropical fruit', 'brown bread', '3.0%']]"
+yogurt,"[['yogurt', 'tropical fruit', '3.0%'], ['yogurt', 'whole milk', '6.0%'], ['yogurt', 'cream cheese', '3.0%'], ['yogurt', 'bottled water', '3.0%'], ['yogurt', 'soda', '3.0%']]"
+coffee,[]
+whole milk,"[['whole milk', 'citrus fruit', '3.0%'], ['whole milk', 'tropical fruit', '3.0%'], ['yogurt', 'whole milk', '6.0%'], ['other vegetables', 'whole milk', '7.0%'], ['butter', 'whole milk', '3.0%'], ['whole milk', 'rolls/buns', '3.0%'], ['curd', 'whole milk', '4.0%'], ['whole milk', 'soda', '4.0%'], ['sugar', 'whole milk', '3.0%'], ['pastry', 'whole milk', '3.0%'], ['root vegetables', 'whole milk', '4.0%'], ['whole milk', 'domestic eggs', '3.0%']]"
+pip fruit,[]
+cream cheese,"[['yogurt', 'cream cheese', '3.0%']]"
+meat spreads,[]
+other vegetables,"[['other vegetables', 'tropical fruit', '4.0%'], ['other vegetables', 'whole milk', '7.0%'], ['other vegetables', 'rolls/buns', '5.0%'], ['other vegetables', 'bottled water', '3.0%'], ['other vegetables', 'root vegetables', '5.0%'], ['whipped/sour cream', 'other vegetables', '3.0%']]"
+condensed milk,[]
+long life bakery product,[]
+butter,"[['butter', 'whole milk', '3.0%']]"
+rice,[]
+abrasive cleaner,[]
+rolls/buns,"[['rolls/buns', 'tropical fruit', '3.0%'], ['whole milk', 'rolls/buns', '3.0%'], ['other vegetables', 'rolls/buns', '5.0%'], ['bottled water', 'rolls/buns', '4.0%'], ['rolls/buns', 'soda', '5.0%'], ['sugar', 'rolls/buns', '3.0%'], ['root vegetables', 'rolls/buns', '4.0%'], ['sausage', 'rolls/buns', '5.0%']]"
+UHT-milk,[]
+bottled beer,[]
+liquor (appetizer),[]
+potted plants,[]
+cereals,[]
+white bread,[]
+bottled water,"[['yogurt', 'bottled water', '3.0%'], ['other vegetables', 'bottled water', '3.0%'], ['bottled water', 'rolls/buns', '4.0%']]"
+chocolate,[]
+curd,"[['curd', 'whole milk', '4.0%']]"
+flour,[]
+dishes,[]
+beef,[]
+frankfurter,[]
+soda,"[['yogurt', 'soda', '3.0%'], ['whole milk', 'soda', '4.0%'], ['rolls/buns', 'soda', '5.0%'], ['pastry', 'soda', '3.0%']]"
+chicken,[]
+sugar,"[['sugar', 'whole milk', '3.0%'], ['sugar', 'rolls/buns', '3.0%']]"
+fruit/vegetable juice,"[['fruit/vegetable juice', 'brown bread', '3.0%']]"
+newspapers,[]
+packaged fruit/vegetables,[]
+specialty bar,[]
+butter milk,[]
+pastry,"[['pastry', 'whole milk', '3.0%'], ['pastry', 'soda', '3.0%']]"
+processed cheese,[]
+detergent,[]
+root vegetables,"[['root vegetables', 'tropical fruit', '3.0%'], ['root vegetables', 'whole milk', '4.0%'], ['other vegetables', 'root vegetables', '5.0%'], ['root vegetables', 'rolls/buns', '4.0%']]"
+frozen dessert,[]
+sweet spreads,[]
+salty snack,[]
+waffles,[]
+candy,[]
+bathroom cleaner,[]
+canned beer,"[['canned beer', 'brown bread', '3.0%'], ['shopping bags', 'canned beer', '3.0%']]"
+sausage,"[['sausage', 'rolls/buns', '5.0%']]"
+brown bread,"[['tropical fruit', 'brown bread', '3.0%'], ['fruit/vegetable juice', 'brown bread', '3.0%'], ['canned beer', 'brown bread', '3.0%']]"
+shopping bags,"[['shopping bags', 'canned beer', '3.0%']]"
+beverages,[]
+hamburger meat,[]
+spices,[]
+hygiene articles,[]
+napkins,[]
+pork,"[['whipped/sour cream', 'pork', '3.0%']]"
+berries,[]
+whipped/sour cream,"[['whipped/sour cream', 'other vegetables', '3.0%'], ['whipped/sour cream', 'pork', '3.0%']]"
+artif. sweetener,[]
+grapes,[]
+dessert,[]
+zwieback,[]
+domestic eggs,"[['whole milk', 'domestic eggs', '3.0%']]"
+spread cheese,[]
+misc. beverages,[]
+hard cheese,[]
+cat food,[]
+ham,[]
+turkey,[]
+baking powder,[]
+pickled vegetables,[]
+oil,[]
+chewing gum,[]
+chocolate marshmallow,[]
+ice cream,[]
+frozen vegetables,[]
+canned fish,[]
+seasonal products,[]
+curd cheese,[]
+red/blush wine,[]
+frozen potato products,[]
+specialty fat,[]
+specialty chocolate,[]
+candles,[]
+flower (seeds),[]
+sparkling wine,[]
+salt,[]
+frozen meals,[]
+canned vegetables,[]
+onions,[]
+herbs,[]
+white wine,[]
+brandy,[]
+photo/film,[]
+sliced cheese,[]
+pasta,[]
