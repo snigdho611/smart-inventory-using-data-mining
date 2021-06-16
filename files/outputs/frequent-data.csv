@@ -1,36 +1,36 @@
 support,itemsets,length
-0.03,"frozenset({('tropical fruit',), ('citrus fruit',)})",2
-0.03,"frozenset({('whole milk',), ('citrus fruit',)})",2
-0.03,"frozenset({('tropical fruit',), ('yogurt',)})",2
-0.03,"frozenset({('tropical fruit',), ('whole milk',)})",2
-0.04,"frozenset({('other vegetables',), ('tropical fruit',)})",2
-0.03,"frozenset({('tropical fruit',), ('rolls/buns',)})",2
-0.03,"frozenset({('tropical fruit',), ('root vegetables',)})",2
-0.03,"frozenset({('tropical fruit',), ('brown bread',)})",2
-0.06,"frozenset({('whole milk',), ('yogurt',)})",2
-0.03,"frozenset({('cream cheese',), ('yogurt',)})",2
-0.03,"frozenset({('yogurt',), ('bottled water',)})",2
-0.03,"frozenset({('soda',), ('yogurt',)})",2
-0.07,"frozenset({('other vegetables',), ('whole milk',)})",2
-0.03,"frozenset({('whole milk',), ('butter',)})",2
-0.03,"frozenset({('whole milk',), ('rolls/buns',)})",2
-0.04,"frozenset({('whole milk',), ('curd',)})",2
-0.04,"frozenset({('whole milk',), ('soda',)})",2
-0.03,"frozenset({('sugar',), ('whole milk',)})",2
-0.03,"frozenset({('whole milk',), ('pastry',)})",2
-0.04,"frozenset({('whole milk',), ('root vegetables',)})",2
-0.03,"frozenset({('whole milk',), ('domestic eggs',)})",2
-0.05,"frozenset({('other vegetables',), ('rolls/buns',)})",2
-0.03,"frozenset({('other vegetables',), ('bottled water',)})",2
-0.05,"frozenset({('other vegetables',), ('root vegetables',)})",2
-0.03,"frozenset({('other vegetables',), ('whipped/sour cream',)})",2
-0.04,"frozenset({('rolls/buns',), ('bottled water',)})",2
-0.05,"frozenset({('rolls/buns',), ('soda',)})",2
-0.03,"frozenset({('sugar',), ('rolls/buns',)})",2
-0.04,"frozenset({('rolls/buns',), ('root vegetables',)})",2
-0.05,"frozenset({('rolls/buns',), ('sausage',)})",2
-0.03,"frozenset({('soda',), ('pastry',)})",2
-0.03,"frozenset({('fruit/vegetable juice',), ('brown bread',)})",2
-0.03,"frozenset({('canned beer',), ('brown bread',)})",2
-0.03,"frozenset({('shopping bags',), ('canned beer',)})",2
-0.03,"frozenset({('pork',), ('whipped/sour cream',)})",2
+0.03,"['tropical fruit', 'citrus fruit']",2
+0.03,"['whole milk', 'citrus fruit']",2
+0.03,"['yogurt', 'tropical fruit']",2
+0.03,"['whole milk', 'tropical fruit']",2
+0.04,"['other vegetables', 'tropical fruit']",2
+0.03,"['rolls/buns', 'tropical fruit']",2
+0.03,"['root vegetables', 'tropical fruit']",2
+0.03,"['tropical fruit', 'brown bread']",2
+0.06,"['yogurt', 'whole milk']",2
+0.03,"['yogurt', 'cream cheese']",2
+0.03,"['yogurt', 'bottled water']",2
+0.03,"['yogurt', 'soda']",2
+0.07,"['other vegetables', 'whole milk']",2
+0.03,"['butter', 'whole milk']",2
+0.03,"['whole milk', 'rolls/buns']",2
+0.04,"['curd', 'whole milk']",2
+0.04,"['whole milk', 'soda']",2
+0.03,"['sugar', 'whole milk']",2
+0.03,"['pastry', 'whole milk']",2
+0.04,"['root vegetables', 'whole milk']",2
+0.03,"['whole milk', 'domestic eggs']",2
+0.05,"['other vegetables', 'rolls/buns']",2
+0.03,"['other vegetables', 'bottled water']",2
+0.05,"['other vegetables', 'root vegetables']",2
+0.03,"['whipped/sour cream', 'other vegetables']",2
+0.04,"['bottled water', 'rolls/buns']",2
+0.05,"['rolls/buns', 'soda']",2
+0.03,"['sugar', 'rolls/buns']",2
+0.04,"['root vegetables', 'rolls/buns']",2
+0.05,"['sausage', 'rolls/buns']",2
+0.03,"['pastry', 'soda']",2
+0.03,"['fruit/vegetable juice', 'brown bread']",2
+0.03,"['canned beer', 'brown bread']",2
+0.03,"['shopping bags', 'canned beer']",2
+0.03,"['whipped/sour cream', 'pork']",2
