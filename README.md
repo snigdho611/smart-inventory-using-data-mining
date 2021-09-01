@@ -54,8 +54,8 @@
     <p>
         Developed by: 
         <ul>
-            <li><a href="https://github.com/snigdho611">Snigdho Dip Howlader</a></li>
-            <li><a href="https://github.com/asifsijan">Asif Sijan</a></li>
+            <li><a href="https://github.com/snigdho611">Snigdho Dip Howlader</a>L Implemented and improvised the data mining algorithms </li>
+            <li><a href="https://github.com/asifsijan">Asif Sijan</a>: worked in the front end and created the web pages</li>
         </ul>
     </p>
 </div>
