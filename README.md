@@ -18,23 +18,23 @@
     </p>
 </div>
 <div>
-    Here are some screenshots to give an idea of what the project looks like, in case the live link does not work:
+    <p>Here are some screenshots to give an idea of what the project looks like, in case the live link does not work:<p>
     <div style="margin: 0 auto">
         <div>
             <img src="./screenshots/1.png"/>
-            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;">Image: Log In Screen</div>
+            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;"><p>Image: Log In Screen</p></div>
         </div>
         <div>
             <img src="./screenshots/2.png"/>
-            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;">Image: Whole inventory list showing the various details of each product</div>
+            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;"><p>Image: Whole inventory list showing the various details of each product</p></div>
         </div>
         <div>
             <img src="./screenshots/3.png"/>
-            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;">Image: The item sets and their support value (likeliness to be bought together)</div>
+            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;"><p>Image: The item sets and their support value (likeliness to be bought together)</p></div>
         </div>
         <div>
             <img src="./screenshots/4.png"/>
-            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;">Image: Table of items for restock</div>
+            <div style="text-align:center; font-size:20px;font-weight:bold;background-color:aliceblue;padding:10px;margin:10px auto;"><p>Image: Table of items for restock</p></div>
         </div>
     </div>
 </div>
